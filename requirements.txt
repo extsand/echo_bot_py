@@ -1,0 +1,2 @@
+aiogram==2.16
+loguru==0.5.3
