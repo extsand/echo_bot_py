@@ -1,4 +1,8 @@
 # echo_bot_py
+<p align="center">
+	<img src="https://github.com/extsand/echo_bot_py/blob/main/app/resource/bots-min.png?raw=true" width="auto" height="auto">
+</p>
+
 Telegram bot with echo function.
 
 
